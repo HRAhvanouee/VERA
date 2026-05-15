@@ -3,6 +3,8 @@
 
 To validate the proposed mapping approach, the middleware was applied to the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
 
+![VERA Pilot Plant](Vera.png)
+
 The **VERA AutomationML (AML) project**, based on standard AutomationML libraries, was used as the input for the transformation process. The plant includes:
 
 - 8 process tanks with different functions in the chemical workflow
