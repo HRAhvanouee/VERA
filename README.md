@@ -1,9 +1,8 @@
  
 # 🧪 VERA Use Case
 
-To validate the proposed mapping approach, the middleware was applied to the **VERA chemical pilot plant** (*Verfahrenstechnische Pilotanlage*), a modular process engineering test facility.
 
-![VERA Pilot Plant](Vera_Testbench.png)
+
 
 The **VERA AutomationML (AML) project**, based on standard AutomationML libraries, was used as the input for the transformation process. The plant includes:
 
@@ -14,7 +13,7 @@ The **VERA AutomationML (AML) project**, based on standard AutomationML librarie
 
 The upper tanks operate as raw material reservoirs and intermediate storage units that supply downstream processes. The structural and semantic information encoded in AML — including component hierarchy, topology, and connectivity — was successfully transformed into the **Automation Engineering Submodel** format using the developed middleware.
 
-
+![VERA Pilot Plant](Vera_Testbench.png)
 
 ## 🧩 Technologies Used
 
